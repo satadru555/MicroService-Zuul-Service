@@ -13,7 +13,7 @@ import com.example.springbootzuulgatwayproxy.filters.PreFilter;
 import com.example.springbootzuulgatwayproxy.filters.RouteFilter;
 
 @SpringBootApplication
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 @EnableZuulProxy
 public class SpringBootZuulgatwayproxyApplication {
 
